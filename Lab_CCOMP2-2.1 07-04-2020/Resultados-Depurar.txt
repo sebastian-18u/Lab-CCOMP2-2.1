@@ -1,0 +1,21 @@
+﻿'Trabajo_en_clase.exe' (Win32): 'C:\Lab CCOMP\Lab_CCOMP2-2.1\Nueva carpeta\Trabajo_en_clase\Debug\Trabajo_en_clase.exe' cargado. Símbolos cargados.
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' descargado
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+El subproceso 0x40cc terminó con código 0 (0x0).
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. 
+'Trabajo_en_clase.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. 
+El subproceso 0x2e54 terminó con código 0 (0x0).
+El subproceso 0x371c terminó con código 0 (0x0).
+El subproceso 0x4210 terminó con código 0 (0x0).
+El programa '[17292] Trabajo_en_clase.exe' terminó con código 0 (0x0).
