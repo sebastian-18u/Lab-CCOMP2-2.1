@@ -5,13 +5,13 @@ using namespace std;
 int main()
 {
     //Ejercicio 1
-    /* string nombre;
+    string nombre;
     int edad;
     int telefono;
     string direccion;
     string hobby;
     std::cout << "Ingrese su nombre:\n ";
-    std::cin >> nombre;
+    getline(cin, nombre);
     std::cout << "Ingrese su edad: \n";
     std::cin >> edad;
     std::cout << "Ingrese su numero celular: \n";
@@ -20,7 +20,7 @@ int main()
     std::cin >> direccion;
     std::cout << "Ingrese su hobby: \n";
     std::cin >> hobby;
-    std::cout << "Sus datos son:\n " << nombre << "\n" << edad << "\n" << telefono << "\n" << direccion << "\n" << hobby;*/
+    std::cout << "Sus datos son:\n " << nombre << "\n" << edad << "\n" << telefono << "\n" << direccion << "\n" << hobby;
     //Ejercicio 2
     /*float a;
     float b;
