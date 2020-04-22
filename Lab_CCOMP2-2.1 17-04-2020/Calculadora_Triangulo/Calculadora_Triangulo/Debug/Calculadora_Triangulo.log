@@ -1,0 +1,12 @@
+﻿  Calculadora_Triangulo.cpp
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(70,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(71,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(76,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(77,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(82,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(83,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(86,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(87,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(95,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Calculadora_Triangulo\Calculadora_Triangulo.cpp(102,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Calculadora_Triangulo.vcxproj -> C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 17-04-2020\Calculadora_Triangulo\Debug\Calculadora_Triangulo.exe
