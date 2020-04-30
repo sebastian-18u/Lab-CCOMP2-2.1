@@ -1,0 +1,6 @@
+﻿  Tres_en_raya.cpp
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 23-04-2020\Tres_en_raya\Tres_en_raya\Tres_en_raya.cpp(15,94): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 23-04-2020\Tres_en_raya\Tres_en_raya\Tres_en_raya.cpp(15,90): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 23-04-2020\Tres_en_raya\Tres_en_raya\Tres_en_raya.cpp(20,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 23-04-2020\Tres_en_raya\Tres_en_raya\Tres_en_raya.cpp(16,9): warning C4101: 'i': variable local sin referencia
+  Tres_en_raya.vcxproj -> C:\Lab CCOMP\Lab_CCOMP2-2.1\Lab_CCOMP2-2.1 23-04-2020\Tres_en_raya\Debug\Tres_en_raya.exe
